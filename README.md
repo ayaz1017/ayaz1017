@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayaz Khan</h1>
-<h3 align="center">A passionate AI-ML enthusiast and i also can make front end projects</h3>
+<h3 align="center">A passionate AI-ML enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaz1017&label=Profile%20views&color=0e75b6&style=flat" alt="ayaz1017" /> </p>
 
